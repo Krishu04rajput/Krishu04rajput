@@ -106,3 +106,6 @@ OUTFRAME STUDIO — Build Beyond the Frame.
 <p align="center">
   <i>Designed with curiosity. Built with code.</i>
 </p>
+<p align="center">
+  <img src="path-to-your-banner.png" alt="Banner" width="100%">
+</p>
