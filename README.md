@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./Banner.png"
+    alt="OUTFRAME STUDIO - Krishu"
+    width="100%"
+  />
+</p>
 Hey, I’m Krishu 👋
 
 Developer · Builder · Creative Thinker
@@ -92,7 +99,7 @@ Beyond Code
 I enjoy anime, creative design, technology, gaming, and exploring ideas that might seem impossible at first.
 
 I don’t just want to use technology. I want to understand it, experiment with it, and build with it.
-
+ 
 ⸻
 
 A little reminder
@@ -105,7 +112,4 @@ OUTFRAME STUDIO — Build Beyond the Frame.
 
 <p align="center">
   <i>Designed with curiosity. Built with code.</i>
-</p>
-<p align="center">
-  <img src="path-to-your-banner.png" alt="Banner" width="100%">
 </p>
